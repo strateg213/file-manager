@@ -1,1 +1,1 @@
-123
+export const h = 'hello';
